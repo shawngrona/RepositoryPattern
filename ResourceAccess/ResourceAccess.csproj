@@ -54,6 +54,7 @@
     <Compile Include="DatabaseName\Repositories\GenericRepository.cs" />
     <Compile Include="DatabaseName\Repositories\IUnitOfWork.cs" />
     <Compile Include="DatabaseName\Repositories\UnitOfWork.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
